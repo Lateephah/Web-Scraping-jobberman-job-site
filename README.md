@@ -1,14 +1,8 @@
-# Web-Scraping-jobberman-job-site
-Scraped  Jobberman job-site , extracted 3360 job postings (16 jobs posting per page * 210  pages). Python web scraping project
-
 # 🌐 Jobberman Web Scraping & Data Collection Project
 
 ## 📌 Overview
 
 This project focuses on **web scraping job listings from Jobberman** and transforming the extracted data into a structured dataset for analysis.
-
-**Project Summary:**
-Scraped Jobberman job site and extracted **3,360 job postings** *(16 jobs per page × 210 pages)* using Python.
 
 The project implements a **multi-level scraping pipeline** that:
 
@@ -16,6 +10,8 @@ The project implements a **multi-level scraping pipeline** that:
 * Visits individual job pages for additional details
 * Aggregates data across hundreds of pages
 * Outputs a clean dataset ready for analysis
+
+ **3,360 job postings** *(16 jobs per page × 210 pages)* was scraped from Jobberman job site using Python.
 
 ---
 
